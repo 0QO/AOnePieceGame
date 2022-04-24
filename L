@@ -1,0 +1,7 @@
+if game.PlaceId == 8396586868 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/0QO/Basic/main/ShittyAutoDefence'))()
+elseif game.PlaceId == 9432106399 then
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Testing-A-0ne-Piece-Game-Second-sea-holder-2231"))()
+elseif game.PlaceId == 9264222904 then
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Testing-A-0ne-Piece-Game-Auto-raid-holder-2232"))()
+    end
